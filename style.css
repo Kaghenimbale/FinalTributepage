@@ -1,9 +1,36 @@
-.image{
-    max-width: 100%;
-    height: 100px;
-    display: block;
+#title{
+    font-size: 35px;
+    text-align: center;
   }
-  img{
-    display: block;
-    max-width: 100%;
+  #main{
+    background-color: rgb(247, 247, 247);
+    width: 100%;
+  }
+  #image{
+   max-width: 100%;
+   height: 100%;
+  
+  }
+  #img-div{
+    width: 95%;
+    height: 50%;
+    background-color: white;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #img-caption{
+    margin-top: 5px;
+    font-size: 20px;
+  }
+  #tribute-info{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+  }
+  #tribute-link{
+    color: black;
+    text-align: right;
+    background-color: red;
+    margin: 100px;
   }
