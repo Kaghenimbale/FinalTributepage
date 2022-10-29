@@ -1,4 +1,9 @@
-body{
-    background-color: red;
-    color: white;
-}
+.image{
+    max-width: 100%;
+    height: 100px;
+    display: block;
+  }
+  img{
+    display: block;
+    max-width: 100%;
+  }
